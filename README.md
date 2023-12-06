@@ -5,4 +5,4 @@ All Python codes regarding implementation of Deep Learning models are in the **S
 
 Trained models are in the **Model** folder for replication. 
 
-Datasets are made public here: https://drive.google.com/drive/folders/1YxEFhyJLJmu-RzbLF5wpGTFr7SmhQ7ts?usp=sharing
+Datasets are made public through here: https://drive.google.com/drive/folders/1YxEFhyJLJmu-RzbLF5wpGTFr7SmhQ7ts?usp=sharing
