@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2f6db56d60f270",
+  "active": "dab1969b4afb0783",
   "lastOpenFiles": [
+    "Figure/bi_temp.png",
     "Script/Bi-RAUnet.ipynb.tmp",
     "Figure/bi_temp.png",
     "README.md",
