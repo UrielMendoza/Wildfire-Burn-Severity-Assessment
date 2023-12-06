@@ -1,3 +1,3 @@
 # Wildfire Burn Severity Assessment
  
-![alt text](![alt text](http://url/to/img.png))
+![alt text](Figure/flow chart_3.png)
