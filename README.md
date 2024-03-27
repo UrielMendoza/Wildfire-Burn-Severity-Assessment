@@ -9,9 +9,11 @@ Trained models are in the **Model** folder for replication.
 Datasets are made public through here: https://drive.google.com/drive/folders/1YxEFhyJLJmu-RzbLF5wpGTFr7SmhQ7ts?usp=sharing
 
 ## Model structure
+
+![alt text](https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/3d0192396473717caf2fb17a6ac601eac98f66ad/Figure/bi_temp.png)
+
 <p align="center">
-  <img src="https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/3d0192396473717caf2fb17a6ac601eac98f66ad/Figure/bi_temp.png"
-<!--     width="500" height="400"> -->
+  <img src="https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/3d0192396473717caf2fb17a6ac601eac98f66ad/Figure/bi_temp.png" width="500" height="400">
 </p>
 
 ## Credits 
