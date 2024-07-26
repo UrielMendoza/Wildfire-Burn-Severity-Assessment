@@ -10,7 +10,7 @@ Datasets are made public through here: https://drive.google.com/drive/folders/1Y
 
 ## Model structure
 
-![Model structure](https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/3d0192396473717caf2fb17a6ac601eac98f66ad/Figure/bi_temp.png)
+![Model structure](https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/c3ca8e17ce0e63dca1bb272cb37d33774411cc3c/Figure/bi_temp.png)
 
 ## Credits 
 This project includes code from the following sources: 
