@@ -2,7 +2,7 @@
 ![Flowchart](https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/b65336097427bf623a108d49df06bb2cc910148a/Figure/flow%20chart_3.png)
 
 ## How to use 
-All Python codes regarding implementation of DL and ML models are in the **Script** folder. The models were implemented using TensorFlow
+All Python codes regarding implementation of DL and ML models are in the **Script** folder. DL models were implemented using TensorFlow and ML models using RAPIDS.
 
 Trained models are in the **Model** folder for validation. 
 
