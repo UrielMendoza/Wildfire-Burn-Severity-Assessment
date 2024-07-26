@@ -8,6 +8,8 @@ Trained models are in the **Model** folder for validation.
 
 Datasets are made public through here: https://drive.google.com/drive/folders/1YxEFhyJLJmu-RzbLF5wpGTFr7SmhQ7ts?usp=sharing
 
+File path in the script should be replaced with the corresponding data to be able to run. 
+
 ## Model structure
 
 ![Model structure](https://github.com/MarcWu-929/Wildfire-Burn-Severity-Assessment/blob/c3ca8e17ce0e63dca1bb272cb37d33774411cc3c/Figure/bi_temp.png)
